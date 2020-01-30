@@ -7,6 +7,7 @@ It covers the basic topics like:
 - assertion
 - skipping tests
 - using mocks
+- example for testing with and without a framework (see id_creator)
 
 ## Running the tests
 
